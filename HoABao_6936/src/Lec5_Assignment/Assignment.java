@@ -11,8 +11,7 @@ import java.util.Scanner;
  *
  * @author gamet
  */
-public class Lec5_Assignment {
-
+public class Assignment {
     public static void main(String[] args) {
         Random rand = new Random();
         Scanner scanner = new Scanner(System.in);
