@@ -3,7 +3,7 @@ package Lec4_ConditionalExpression;
 
 import java.util.Scanner;
 
-public class Lec4_ConditinalEpression {
+public class Assignment_1 {
 
     public static int quadrant(double x, double y) {
         if (x > 0 && y > 0) {

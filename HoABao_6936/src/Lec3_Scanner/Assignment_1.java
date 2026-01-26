@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author gamet
  */
-public class Lecture_3 {
+public class Assignment_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhap ho va ten : ");

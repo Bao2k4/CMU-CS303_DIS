@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Lec5_Assignment;
+package Lec5_Loops;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gamet
  */
-public class baiTap_1 {
+public class Assignment_5_Sakai {
 
     // a. Hiển thị mảng
     public static void hienThi(int[] a) {
