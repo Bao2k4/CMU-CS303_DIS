@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gamet
  */
-public class Assignment_5_Sakai {
+public class Assignment_Sakai {
 
     // a. Hiển thị mảng
     public static void hienThi(int[] a) {
